@@ -1,0 +1,12 @@
+-- Teste de implementação do projeto.
+
+-- Ricardo
+
+1. Criar o projeto.
+2. Inserir linhas de código.
+
+
+-- Susane
+
+1. Ler e analisar.
+2. Testar
